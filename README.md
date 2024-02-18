@@ -83,8 +83,8 @@ REACT_APP_API_URL = [BACKEND_URL]
 
 <table>
  <tr>
-    <td><img width="350px" src="/src/assets/docs/registercustomer.png"  border="0" border="0" alt="1" /></td>
-    <td> <img width="350px" src="/src/assets/docs/registerseller.png" \ border="0"  border="0"  border="0"  alt="2" /></td>
+    <td><img width="350px" src="/src/assets/docs/quiz-app-register-page.png"  border="0" border="0" alt="1" /></td>
+    <td> <img width="350px" src="/src/assets/docs/quiz-app-login-page.png" \ border="0"  border="0"  border="0"  alt="2" /></td>
   </tr>
    <tr>
     <td>Register User</td>
@@ -92,8 +92,8 @@ REACT_APP_API_URL = [BACKEND_URL]
   </tr>
 
   <tr>
-    <td><img width="350px" src="/src/assets/docs/logindocs.png"  border="0" border="0" alt="3" /> </td>
-    <td><img width="350px" src="/src/assets/docs/logindocs.png"  border="0" border="0" alt="4" /></td>
+    <td><img width="350px" src="/src/assets/docs/quiz-app-home-page.png"  border="0" border="0" alt="3" /> </td>
+    <td><img width="350px" src="/src/assets/docs/quiz-app-quiz-page.png"  border="0" border="0" alt="4" /></td>
 
   </tr>
    <tr>
@@ -101,7 +101,7 @@ REACT_APP_API_URL = [BACKEND_URL]
     <td>Quiz Page</td>
   </tr>
   <tr>
-    <td><img width="350px" src="/src/assets/docs/homedocs.png"  border="0" border="0" alt="3" /> </td>
+    <td><img width="350px" src="/src/assets/docs/quiz-app-result-quiz-page.png"  border="0" border="0" alt="3" /> </td>
   </tr>
    <tr>
     <td>Result from quiz</td>
