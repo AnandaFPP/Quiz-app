@@ -39,7 +39,7 @@ With its user-friendly interface and diverse question database, the Quiz App off
 This is an example of how to list things you need to use the software and how to install them.
 
 - [NodeJs](https://nodejs.org/en/download/)
-- [Tailwind](https://getbootstrap.com/)
+- [Tailwind](https://tailwindcss.com/)
 - [ReactJS](https://reactjs.org/)
 - [Axios](https://www.npmjs.com/package/axios)
 
