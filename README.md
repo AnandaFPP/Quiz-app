@@ -1,70 +1,131 @@
-# Getting Started with Create React App
+<br />
+<p align="center">
+  <h3 align="center">Quiz App</h3>
+  <p align="center">
+    <a href="https://github.com/AnandaFPP/Quiz-app.git"><strong>Explore the docs »</strong></a>
+    <br />
+    <a href="">View Demo</a>
+  </p>
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Table of Contents
 
-## Available Scripts
+- [Table of Contents](#table-of-contents)
+- [About The Project](#about-the-project)
+  - [Built With](#built-with)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+  - [Setup .env](#setup-env)
+- [Screenshots](#screenshots)
+- [Contributing](#contributing)
+- [Related Project](#related-project)
+- [Contact](#contact)
 
-In the project directory, you can run:
+<!-- ABOUT THE PROJECT -->
 
-### `npm start`
+## About The Project
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Blanja is an E-commerce website project that aims to provide an easy and convenient online shopping experience for users in Indonesia. The site offers a wide range of products, including fashion, beauty, electronics, food and beverages.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+To use Blanja's services, users only need to create an account and enter their payment details. After that, users can browse products, add them to their shopping cart, and choose their preferred payment method.
 
-### `npm test`
+With all the features and security provided, Blanja is expected to provide a safe, easy, and convenient online shopping experience for users across Indonesia.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<!-- GETTING STARTED -->
 
-### `npm run build`
+## Getting Started
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Prerequisites
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+This is an example of how to list things you need to use the software and how to install them.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- [NodeJs](https://nodejs.org/en/download/)
+- [Tailwind](https://getbootstrap.com/)
+- [ReactJS](https://reactjs.org/)
+- [Axios](https://www.npmjs.com/package/axios)
 
-### `npm run eject`
+### Installation
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- Clone This Front End Repo
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```
+git clone https://github.com/AnandaFPP/Quiz-app.git
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- Go To Folder Repo
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+```
+cd quiz-app
+```
 
-## Learn More
+- Install Module
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```
+npm install
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- <a href="#setup-env">Setup .env</a>
+- Type ` npm run start` To Start Website
+- Type ` npm run production` To Start Production
 
-### Code Splitting
+### Setup .env
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Create .env file in your root project folder.
 
-### Analyzing the Bundle Size
+```
+REACT_APP_API_URL = [BACKEND_URL]
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+<!-- ROADMAP -->
 
-### Making a Progressive Web App
+## Screenshots
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+<table>
+ <tr>
+    <td><img width="350px" src="/src/assets/docs/registercustomer.png"  border="0" border="0" alt="1" /></td>
+    <td> <img width="350px" src="/src/assets/docs/registerseller.png" \ border="0"  border="0"  border="0"  alt="2" /></td>
+  </tr>
+   <tr>
+    <td>Register User</td>
+    <td>Login Seller</td>
+  </tr>
 
-### Advanced Configuration
+  <tr>
+    <td><img width="350px" src="/src/assets/docs/logindocs.png"  border="0" border="0" alt="3" /> </td>
+    <td><img width="350px" src="/src/assets/docs/logindocs.png"  border="0" border="0" alt="4" /></td>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+  </tr>
+   <tr>
+    <td>Home</td>
+    <td>Quiz Page</td>
+  </tr>
+  <tr>
+    <td><img width="350px" src="/src/assets/docs/homedocs.png"  border="0" border="0" alt="3" /> </td>
+  </tr>
+   <tr>
+    <td>Result from quiz</td>
+  </tr>
 
-### Deployment
+</table>
+<!-- CONTRIBUTING -->
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## Contributing
 
-### `npm run build` fails to minify
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## Related Project
+
+:rocket: [`Backend Quiz App`](https://github.com/AnandaFPP/Quiz-app.git)
+
+:rocket: [`Frontend Quiz App`](https://github.com/AnandaFPP/Quiz-app-BE.git)
+
+:rocket: [`Demo Quiz App`]()
+
+Project Link: [https://github.com/AnandaFPP/Quiz-app.git](https://github.com/AnandaFPP/Quiz-app.git)
