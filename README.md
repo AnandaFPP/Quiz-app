@@ -4,7 +4,7 @@
   <p align="center">
     <a href="https://github.com/AnandaFPP/Quiz-app.git"><strong>Explore the docs »</strong></a>
     <br />
-    <a href="">View Demo</a>
+    <a href="https://quiz-app-chi-gules.vercel.app/">View Demo</a>
   </p>
 </p>
 
@@ -124,6 +124,6 @@ Contributions are what make the open source community such an amazing place to b
 
 :rocket: [`Frontend Quiz App`](https://github.com/AnandaFPP/Quiz-app-BE.git)
 
-:rocket: [`Demo Quiz App`]()
+:rocket: [`Demo Quiz App`](https://quiz-app-chi-gules.vercel.app/)
 
 Project Link: [https://github.com/AnandaFPP/Quiz-app.git](https://github.com/AnandaFPP/Quiz-app.git)
