@@ -22,17 +22,15 @@
 - [Related Project](#related-project)
 - [Contact](#contact)
 
-<!-- ABOUT THE PROJECT -->
 
 ## About The Project
 
-Blanja is an E-commerce website project that aims to provide an easy and convenient online shopping experience for users in Indonesia. The site offers a wide range of products, including fashion, beauty, electronics, food and beverages.
+The Quiz App is an interactive platform designed to provide users with a fun and engaging way to test their knowledge. Users can access a wide range of random questions from various categories and topics. After selecting a category, users are presented with multiple-choice questions that they must answer within a certain time limit.
 
-To use Blanja's services, users only need to create an account and enter their payment details. After that, users can browse products, add them to their shopping cart, and choose their preferred payment method.
+Once the user completes the quiz, the app provides instant feedback, displaying the correct answers and the user's score. Users can track their progress over time and challenge themselves to improve their knowledge in different areas.
 
-With all the features and security provided, Blanja is expected to provide a safe, easy, and convenient online shopping experience for users across Indonesia.
+With its user-friendly interface and diverse question database, the Quiz App offers an enjoyable learning experience for users of all ages.
 
-<!-- GETTING STARTED -->
 
 ## Getting Started
 
