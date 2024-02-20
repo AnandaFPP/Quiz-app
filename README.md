@@ -120,9 +120,9 @@ Contributions are what make the open source community such an amazing place to b
 
 ## Related Project
 
-:rocket: [`Backend Quiz App`](https://github.com/AnandaFPP/Quiz-app.git)
+:rocket: [`Backend Quiz App`](https://github.com/AnandaFPP/Quiz-app-BE.git)
 
-:rocket: [`Frontend Quiz App`](https://github.com/AnandaFPP/Quiz-app-BE.git)
+:rocket: [`Frontend Quiz App`](https://github.com/AnandaFPP/Quiz-app.git)
 
 :rocket: [`Demo Quiz App`](https://quiz-app-chi-gules.vercel.app/)
 
